@@ -1,11 +1,17 @@
 {
   "name": "@tehdev/url-pattern",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/tehnarenok/url-pattern.git"
   },
   "description": "Url pattern for build, parse urls by patterns",
+  "keywords": [
+    "url",
+    "url parse",
+    "url pattern",
+    "routing"
+  ],
   "license": "MIT",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
